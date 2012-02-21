@@ -1,0 +1,13 @@
+install bash-3.1-5.i586@test
+install compat-libstdc++-5.0.7-7.i586@test
+install expat-1.95.8-6.i586@test
+install filesystem-10.0.42-6.i586@test
+install fontconfig-2.3.93.20051222-2.i586@test
+install freetype2-2.1.10-5.i586@test
+install glibc-2.3.90-34.i586@test
+install libgcc-4.1.0_20051221-4.i586@test
+install ncurses-5.5-4.i586@test
+install novell-groupwise-gwclient-7.0-20051122.i386@test
+install readline-5.1-5.i586@test
+install xorg-x11-libs-6.9.0-2.i586@test
+install zlib-1.2.3-5.i586@test

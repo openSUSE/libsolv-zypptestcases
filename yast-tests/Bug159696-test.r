@@ -1,0 +1,17 @@
+erase selection:SuSE-Documentation-10-46.noarch@system
+install AdobeICCProfiles-2.0-6.noarch@packages
+install OpenOffice_org-nld-2.0.2-7.i586@packages
+install RealPlayer-10.0.6-10.i586@packages
+install acroread-7.0.5-6.i586@packages
+install agfa-fonts-2003.03.19-22.noarch@packages
+install amarok-helix-1.3.8-15.i586@packages
+install bootsplash-theme-SuSE-NLD-3.1-60.i586@packages
+install cups-backends-1.0-10.i586@packages
+install digikam-doc-0.8.0-6.noarch@packages
+install flash-player-7.0.25.0-11.i586@packages
+install java-1_4_2-sun-1.4.2.10-10.i586@packages
+install java-1_4_2-sun-plugin-1.4.2.10-10.i586@packages
+install ncpfs-2.2.6-15.i586@packages
+install selection:Basis-Sound-10-46.noarch@selections
+install selection:Kde-Desktop-10-46.noarch@selections
+install selection:X11-10-46.noarch@selections

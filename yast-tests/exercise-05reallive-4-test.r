@@ -1,0 +1,60 @@
+erase e2fsprogs-1.14-0.noarch@system ext2fs-1.14-2.noarch@test
+install XFree86-libs-3.3.5-1.noarch@test
+install ext2fs-1.14-2.noarch@test
+install gdbm-1.8.0-3.noarch@test
+install libstdc++-2.9.0-5.noarch@test
+install modutils-2.1.121-10.noarch@test
+upgrade DEV-3.3-0.noarch@system DEV-3.4-1.noarch@test
+upgrade LPRng-3.5.3-1.noarch@system LPRng-3.5.3-2.noarch@test
+upgrade LPRng-lpd-3.5.3-1.noarch@system LPRng-lpd-3.5.3-2.noarch@test
+upgrade SysVinit-2.76-0.noarch@system SysVinit-2.76.3-2.noarch@test
+upgrade SysVinit-scripts-1.04-0.noarch@system SysVinit-scripts-1.05-5.noarch@test
+upgrade autoconf-2.13-0.noarch@system autoconf-2.13-1.noarch@test
+upgrade bash-1.14.7-9.noarch@system bash-1.14.7-10.noarch@test
+upgrade binutils-2.9.1.0.19a-0.noarch@system binutils-2.9.1.0.21-2.noarch@test
+upgrade crontabs-1.10-2.noarch@system crontabs-1.12-1.noarch@test
+upgrade egcs-2.91.60-3.noarch@system egcs-2.91.66-5.noarch@test
+upgrade egcs-c++-2.91.60-3.noarch@system egcs-c++-2.91.66-5.noarch@test
+upgrade findutils-4.1-9.noarch@system findutils-4.1-11.noarch@test
+upgrade gdb-4.17-2.noarch@system gdb-4.17.0.11-2.noarch@test
+upgrade glibc-2.1-1.noarch@system glibc-2.1.2-1.noarch@test
+upgrade isapnptools-1.16-1.noarch@system isapnptools-1.18-1.noarch@test
+upgrade kbd-0.96-1.noarch@system kbd-0.99-1.noarch@test
+upgrade ld.so-1.9.9-2.noarch@system ld.so-1.9.11-1.noarch@test
+upgrade less-332-3.noarch@system less-340-1.noarch@test
+upgrade libgr-2.0.13-1.noarch@system libgr-2.0.13-2.noarch@test
+upgrade libpam-0.66-1.noarch@system libpam-0.66-3.noarch@test
+upgrade libpwdb-0.54-7.noarch@system libpwdb-0.54-8.noarch@test
+upgrade libz-1.0.2-1.noarch@system libz-1.0.2-2.noarch@test
+upgrade linux-kernel-binary-2.2.1-0a.noarch@system linux-kernel-binary-2.2.13-1S.noarch@test
+upgrade linux-kernel-include-2.2.1-0a.noarch@system linux-kernel-include-2.2.13-1S.noarch@test
+upgrade lisa-3.1-0.noarch@system lisa-4.0-7.noarch@test
+upgrade man-1.5f-1.noarch@system man-1.5f-5.noarch@test
+upgrade mtabase-1.0-5.noarch@system mtabase-1.0-8.noarch@test
+upgrade ncurses-4.2-1.noarch@system ncurses-4.2-4.noarch@test
+upgrade ncurses-devel-4.2-1.noarch@system ncurses-devel-4.2-4.noarch@test
+upgrade ncurses-devel-static-4.2-1.noarch@system ncurses-devel-static-4.2-4.noarch@test
+upgrade ncurses-termcap-devel-4.2-1.noarch@system ncurses-termcap-devel-4.2-4.noarch@test
+upgrade ncurses-termcap-devel-static-4.2-1.noarch@system ncurses-termcap-devel-static-4.2-4.noarch@test
+upgrade nis-client-2.0-0.noarch@system nis-client-2.0-8.noarch@test
+upgrade pciutils-1.99.4-1.noarch@system pciutils-2.0-1.noarch@test
+upgrade perl-5.005_02-0.noarch@system perl-5.005_02-1.noarch@test
+upgrade perl-add-5.005_02-0.noarch@system perl-add-5.005_02-1.noarch@test
+upgrade procmail-3.10-8.noarch@system procmail-3.13.1-1.noarch@test
+upgrade procps-1.2.9-2.noarch@system procps-2.0.2-1.noarch@test
+upgrade python-1.5.1-0a.noarch@system python-1.5.1-1.noarch@test
+upgrade python-devel-1.5.1-0a.noarch@system python-devel-1.5.1-1.noarch@test
+upgrade python-eclass-1.2-0.noarch@system python-eclass-1.2-2.noarch@test
+upgrade qt-1.4.2-1.noarch@system qt-1.44-4.noarch@test
+upgrade qt-devel-1.4.2-1.noarch@system qt-devel-1.44-4.noarch@test
+upgrade rpm-2.5.5-2.noarch@system rpm-2.5.5-3.noarch@test
+upgrade sendmail-8.8.7-7.noarch@system sendmail-8.9.3-1.noarch@test
+upgrade setup-2.0-0a.noarch@system setup-2.0-6.noarch@test
+upgrade sh-utils-1.16-3.noarch@system sh-utils-1.16-7.noarch@test
+upgrade slang-1.2.2-0.noarch@system slang-1.3.7-1.noarch@test
+upgrade strace-3.1-3.noarch@system strace-4.0-2.noarch@test
+upgrade svgalib-1.3.1-1.noarch@system svgalib-1.4.0-0.noarch@test
+upgrade sysklogd-1.3.26-3.noarch@system sysklogd-1.3.31-1.noarch@test
+upgrade tcsh-6.08.00-1.noarch@system tcsh-6.08.00-2.noarch@test
+upgrade util-linux-2.7.1-5.noarch@system util-linux-2.9s-4.noarch@test
+upgrade vixie-cron-3.0.1-18.noarch@system vixie-cron-3.0.1-19.noarch@test

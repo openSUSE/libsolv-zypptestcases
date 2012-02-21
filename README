@@ -1,0 +1,10 @@
+
+These testcases were converted from the old sat-solver repository's
+test suite. They are mostly used for regression testing.
+
+Many of those tests no longer test what they were originally written
+for.
+
+Do make libsolv use them in 'make test', go in the 'test' directory
+of libsolv and do a 'git clone' of this repo. Then re-run cmake.
+

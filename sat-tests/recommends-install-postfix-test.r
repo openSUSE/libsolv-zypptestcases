@@ -1,0 +1,16 @@
+install bash-3.1-18.i586@1
+install coreutils-5.93-16.i586@1
+install cyrus-sasl-2.1.21-12.i586@1
+install db-4.3.29-10.i686@1
+install default-10.1-35.noarch@1
+install filesystem-10.1-2.i586@1
+install glibc-2.4-12.i686@1
+install insserv-1.04.0-15.i586@1
+install libacl-2.2.34-9.i586@1
+install libattr-2.4.28-11.i586@1
+install libgcc-4.1.0-10.i586@1
+install mailx-11.25-9.i586@1
+install openldap2-client-2.3.19-13.i586@1
+install openssl-0.9.8a-13.i586@1
+install postfix-2.2.9-3.i586@1
+install pwdutils-3.0.7.1-12.i586@1
