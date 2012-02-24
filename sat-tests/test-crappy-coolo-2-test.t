@@ -3,7 +3,7 @@ repo 2 0 susetags test-crappy-coolo-2-package.repo.gz
 repo 3 0 susetags test-crappy-coolo-3-package.repo.gz
 repo 1 0 susetags test-crappy-coolo-1-package.repo.gz
 system i686 rpm system
-solverflags allowdowngrade allowarchchange allowvendorchange splitprovides
+solverflags allowdowngrade allowarchchange allowvendorchange splitprovides addalreadyrecommended
 job lock pkg texlive-2007-68.noarch@1
 job lock pkg texlive-latex-2007-68.noarch@1
 job lock pkg pattern:update_test-10.3-148.i586@1

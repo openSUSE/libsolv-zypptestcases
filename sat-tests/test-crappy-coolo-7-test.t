@@ -3,6 +3,7 @@ repo 2 0 susetags test-crappy-coolo-2-package.repo.gz
 repo 3 0 susetags test-crappy-coolo-3-package.repo.gz
 repo 1 0 susetags test-crappy-coolo-1-package.repo.gz
 system i686 rpm system
+solverflags addalreadyrecommended
 job install pkg MesaGLw-devel-7.0.1-14.i586@1
 job install pkg MozillaFirefox-2.0.0.6-22.i586@1
 job install pkg MozillaFirefox-translations-2.0.0.6-22.i586@1

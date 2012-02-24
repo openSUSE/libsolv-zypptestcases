@@ -1,6 +1,7 @@
 repo system 0 susetags Bug299819-2-system.repo.gz
 repo 1 0 susetags Bug299819-2-package.repo.gz
 system i686 rpm system
+solverflags addalreadyrecommended
 job install pkg autoconf-2.60-21.i586@1
 job install pkg automake-1.9.6-35.i586@1
 job install pkg bzip2-1.0.3-36.i586@1
