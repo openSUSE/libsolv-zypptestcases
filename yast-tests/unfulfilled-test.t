@@ -1,4 +1,4 @@
-repo sles_packages 0 susetags sles10-beta8-packages.repo.gz
+repo sles_packages 0 testtags sles10-beta8-packages.repo.gz
 repo system 0 empty
 system i686 rpm system
 namespace namespace:language(de) @SYSTEM

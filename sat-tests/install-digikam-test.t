@@ -1,16 +1,16 @@
-repo system 0 susetags install-digikam-system.repo.gz
-repo 8 0 susetags install-digikam-8-package.repo.gz
-repo 3 0 susetags install-digikam-3-package.repo.gz
-repo 7 0 susetags install-digikam-7-package.repo.gz
-repo 11 0 susetags install-digikam-11-package.repo.gz
-repo 10 0 susetags install-digikam-10-package.repo.gz
-repo 6 0 susetags install-digikam-6-package.repo.gz
-repo 1 0 susetags install-digikam-1-package.repo.gz
-repo 9 0 susetags install-digikam-9-package.repo.gz
-repo 12 0 susetags install-digikam-12-package.repo.gz
-repo 5 0 susetags install-digikam-5-package.repo.gz
-repo 4 0 susetags install-digikam-4-package.repo.gz
-repo 2 0 susetags install-digikam-2-package.repo.gz
+repo system 0 testtags install-digikam-system.repo.gz
+repo 8 0 testtags install-digikam-8-package.repo.gz
+repo 3 0 testtags install-digikam-3-package.repo.gz
+repo 7 0 testtags install-digikam-7-package.repo.gz
+repo 11 0 testtags install-digikam-11-package.repo.gz
+repo 10 0 testtags install-digikam-10-package.repo.gz
+repo 6 0 testtags install-digikam-6-package.repo.gz
+repo 1 0 testtags install-digikam-1-package.repo.gz
+repo 9 0 testtags install-digikam-9-package.repo.gz
+repo 12 0 testtags install-digikam-12-package.repo.gz
+repo 5 0 testtags install-digikam-5-package.repo.gz
+repo 4 0 testtags install-digikam-4-package.repo.gz
+repo 2 0 testtags install-digikam-2-package.repo.gz
 system i686 rpm system
 solverflags ignorerecommended
 job lock pkg amarok-1.4.7-37.2.i586@4

@@ -1,6 +1,6 @@
-repo system 0 susetags Bug217574-system.repo.gz
-repo 3 0 susetags Bug217574-3-package.repo.gz
-repo 1 0 susetags Bug217574-1-package.repo.gz
+repo system 0 testtags Bug217574-system.repo.gz
+repo 3 0 testtags Bug217574-3-package.repo.gz
+repo 1 0 testtags Bug217574-1-package.repo.gz
 system i686 rpm system
 job install pkg bc-1.06-790.i586@3
 job install pkg beagle-0.2.16.2-6.i586@3

@@ -1,5 +1,5 @@
-repo system 0 susetags bug308098-system.repo.gz
-repo 2 0 susetags bug308098-1-package.repo.gz
+repo system 0 testtags bug308098-system.repo.gz
+repo 2 0 testtags bug308098-1-package.repo.gz
 system i686 rpm system
 job install pkg MozillaFirefox-2.0.0.6-9.i586@2
 job install pkg LibVNCServer-0.9.1-20.i586@2

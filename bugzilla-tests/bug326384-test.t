@@ -1,5 +1,5 @@
-repo system 0 susetags bug326384-system.repo.gz
-repo 1 0 susetags bug326384-package.repo.gz
+repo system 0 testtags bug326384-system.repo.gz
+repo 1 0 testtags bug326384-package.repo.gz
 system x86_64 rpm system
 job install pkg flash-player-9.0.48.0-14.i586@1
 job install pkg kdebase3-nsplugin-3.5.7-78.i586@1

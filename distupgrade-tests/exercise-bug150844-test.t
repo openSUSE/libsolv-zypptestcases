@@ -1,6 +1,6 @@
-repo system 0 susetags sles9-sp3-150844-packages.repo.gz
-repo pkg 0 susetags bug150844-packages.repo.gz
-repo sel 0 susetags bug150844-selections.repo.gz
+repo system 0 testtags sles9-sp3-150844-packages.repo.gz
+repo pkg 0 testtags bug150844-packages.repo.gz
+repo sel 0 testtags bug150844-selections.repo.gz
 system i686 rpm system
 job install pkg ghostscript-library-8.15.2rc1-7.i586@pkg
 job install pkg ghostscript-x11-8.15.2rc1-7.i586@pkg

@@ -1,5 +1,5 @@
-repo system 0 susetags exercise-25-system.repo.gz
-repo gnome2 0 susetags exercise-32-packages.repo.gz
+repo system 0 testtags exercise-25-system.repo.gz
+repo gnome2 0 testtags exercise-32-packages.repo.gz
 system i686 rpm system
 job install pkg GConf2-1.1.8.0.200202240433-snap.ximian.1.noarch@gnome2
 job install pkg ORBit2-2.3.105.0.200202240433-snap.ximian.1.noarch@gnome2

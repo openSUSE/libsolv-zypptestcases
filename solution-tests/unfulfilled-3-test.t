@@ -1,4 +1,4 @@
-repo test 0 susetags unfulfilled-packages.repo.gz
+repo test 0 testtags unfulfilled-packages.repo.gz
 repo system 0 empty
 system i686 rpm system
 job install pkg unfulfilled1-1.0-1.noarch@test

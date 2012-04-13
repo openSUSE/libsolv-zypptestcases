@@ -1,5 +1,5 @@
 repo system 0 empty
-repo openSUSE-DVD_11.0 0 susetags openSUSE-DVD-11.0b1-package.repo.gz
+repo openSUSE-DVD_11.0 0 testtags openSUSE-DVD-11.0b1-package.repo.gz
 system i686 rpm system
 namespace namespace:language(en) @SYSTEM
 namespace namespace:language(en_US) @SYSTEM

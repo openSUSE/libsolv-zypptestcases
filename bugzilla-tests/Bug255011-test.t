@@ -1,5 +1,5 @@
-repo 1 0 susetags Bug255011-1-package.repo.gz
-repo 3 0 susetags Bug255011-3-package.repo.gz
+repo 1 0 testtags Bug255011-1-package.repo.gz
+repo 3 0 testtags Bug255011-3-package.repo.gz
 repo system 0 empty
 system i686 rpm system
 namespace namespace:language(en) @SYSTEM

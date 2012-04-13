@@ -1,5 +1,5 @@
-repo system 0 susetags exercise-05reallive-system.repo.gz
-repo test 0 susetags exercise-05reallive-packages.repo.gz
+repo system 0 testtags exercise-05reallive-system.repo.gz
+repo test 0 testtags exercise-05reallive-packages.repo.gz
 system i686 rpm system
 job install pkg dosemu-0.98.5-3.noarch@test
 job install pkg dviutils-1.0-8.noarch@test

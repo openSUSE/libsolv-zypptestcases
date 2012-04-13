@@ -1,7 +1,7 @@
-repo system 0 susetags bug239199-system.repo.gz
-repo 3 0 susetags bug239199-3-package.repo.gz
-repo 10 0 susetags bug239199-10-package.repo.gz
-repo 13 0 susetags bug239199-13-package.repo.gz
+repo system 0 testtags bug239199-system.repo.gz
+repo 3 0 testtags bug239199-3-package.repo.gz
+repo 10 0 testtags bug239199-10-package.repo.gz
+repo 13 0 testtags bug239199-13-package.repo.gz
 system x86_64 rpm system
 solverflags ignorerecommended
 job install pkg kdelibs3-32bit-3.5.5-45.2.x86_64@3

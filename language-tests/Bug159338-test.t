@@ -1,5 +1,5 @@
-repo packages 0 susetags beta8-packages.repo.gz
-repo selections 0 susetags beta8-selections.repo.gz
+repo packages 0 testtags beta8-packages.repo.gz
+repo selections 0 testtags beta8-selections.repo.gz
 repo system 0 empty
 system i686 rpm system
 solverflags addalreadyrecommended

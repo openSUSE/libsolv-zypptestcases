@@ -1,4 +1,4 @@
-repo system 0 susetags single-package.repo.gz
+repo system 0 testtags single-package.repo.gz
 system i686 rpm system
 solverflags allowuninstall
 job erase pkg A-1.0-1.noarch@system

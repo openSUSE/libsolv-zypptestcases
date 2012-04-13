@@ -1,6 +1,6 @@
-repo system 0 susetags bug225278-system.repo.gz
-repo 0 0 susetags bug225278-0-package.repo.gz
-repo 1 0 susetags bug225278-1-package.repo.gz
+repo system 0 testtags bug225278-system.repo.gz
+repo 0 0 testtags bug225278-0-package.repo.gz
+repo 1 0 testtags bug225278-1-package.repo.gz
 system ppc64 rpm system
 solverflags addalreadyrecommended
 job install pkg xorg-x11-libs-7.2-19.ppc@1

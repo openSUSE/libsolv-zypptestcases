@@ -1,4 +1,4 @@
-repo beta52 0 susetags beta52-i386-packages.repo.gz
+repo beta52 0 testtags beta52-i386-packages.repo.gz
 repo system 0 empty
 system i686 rpm system
 namespace namespace:language(fr) @SYSTEM

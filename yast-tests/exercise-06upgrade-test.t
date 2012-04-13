@@ -1,5 +1,5 @@
-repo system 0 susetags exercise-06upgrade-system.repo.gz
-repo test 0 susetags exercise-06upgrade-packages.repo.gz
+repo system 0 testtags exercise-06upgrade-system.repo.gz
+repo test 0 testtags exercise-06upgrade-packages.repo.gz
 system i686 rpm system
 job install pkg p4-2.0-1.noarch@test
 job install pkg p4a-2.0-1.noarch@test

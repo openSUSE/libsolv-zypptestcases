@@ -1,4 +1,4 @@
-repo 1 0 susetags bug328081-package.repo.gz
+repo 1 0 testtags bug328081-package.repo.gz
 repo system 0 empty
 system i686 rpm system
 job install pkg product:openSUSE-10.3.i686@1

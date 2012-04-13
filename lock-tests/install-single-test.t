@@ -1,4 +1,4 @@
-repo test 0 susetags single-package.repo.gz
+repo test 0 testtags single-package.repo.gz
 repo system 0 empty
 system i686 rpm system
 job lock pkg A-1.0-1.noarch@test

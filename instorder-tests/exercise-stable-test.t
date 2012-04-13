@@ -1,4 +1,4 @@
-repo test 0 susetags stable-i386-packages.repo.gz
+repo test 0 testtags stable-i386-packages.repo.gz
 repo system 0 empty
 system i586 rpm system
 job install pkg xorg-x11-libs-6.9.0-2.i586@test

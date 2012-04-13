@@ -1,7 +1,7 @@
-repo system 0 susetags exercise-41-system.repo.gz
-repo mandrake 0 susetags exercise-41-packages-1.repo.gz
-repo ximian 0 susetags exercise-41-packages-2.repo.gz
-repo preview 0 susetags exercise-41-packages-3.repo.gz
+repo system 0 testtags exercise-41-system.repo.gz
+repo mandrake 0 testtags exercise-41-packages-1.repo.gz
+repo ximian 0 testtags exercise-41-packages-2.repo.gz
+repo preview 0 testtags exercise-41-packages-3.repo.gz
 system i686 rpm system
 job install pkg xmms-1.2.6-4.ximian.3.noarch@ximian
 job install pkg gdm-2.2.5.4-4.ximian.2.noarch@ximian

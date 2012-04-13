@@ -1,4 +1,4 @@
-repo packages 0 susetags kernel3-packages.repo.gz
+repo packages 0 testtags kernel3-packages.repo.gz
 repo system 0 empty
 system i686 rpm system
 solverflags addalreadyrecommended

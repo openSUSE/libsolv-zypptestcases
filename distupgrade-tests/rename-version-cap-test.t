@@ -1,5 +1,5 @@
-repo system 0 susetags version-rename-system.repo.gz
-repo upgrade 0 susetags version-rename-package.repo.gz
+repo system 0 testtags version-rename-system.repo.gz
+repo upgrade 0 testtags version-rename-package.repo.gz
 system i686 rpm system
 job install pkg A_new-2.0-1.noarch@upgrade
 job install pkg B_new-2.0-1.noarch@upgrade

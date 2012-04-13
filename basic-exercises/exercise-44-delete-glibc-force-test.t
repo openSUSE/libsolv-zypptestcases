@@ -1,5 +1,5 @@
-repo system 0 susetags exercise-44-system.repo.gz
-repo redhat 0 susetags exercise-40-packages.repo.gz
+repo system 0 testtags exercise-44-system.repo.gz
+repo redhat 0 testtags exercise-40-packages.repo.gz
 system i686 rpm system
 solverflags allowuninstall
 job erase pkg glibc-2.2.4-19.3.noarch@system

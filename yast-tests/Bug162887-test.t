@@ -1,5 +1,5 @@
-repo sl10_packages 0 susetags beta9-packages.repo.gz
-repo sl10_selections 0 susetags beta9-selections.repo.gz
+repo sl10_packages 0 testtags beta9-packages.repo.gz
+repo sl10_selections 0 testtags beta9-selections.repo.gz
 repo system 0 empty
 system i686 rpm system
 namespace namespace:language(de) @SYSTEM
