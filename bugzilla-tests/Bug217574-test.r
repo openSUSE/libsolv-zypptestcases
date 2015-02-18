@@ -23,6 +23,7 @@ erase pam_mktemp-1.0.2-21.i586@system
 erase pam_userpass-1.0-21.i586@system
 erase pkgconfig-0.20-32.i586@system pkg-config-0.21-4.i586@3
 erase prctl-1.3-386.i586@system
+erase product:openSUSE-DVD9-retail-10.2.i686@system
 erase qtcurve-kde-0.45.2-9.i586@system
 erase sane-1.0.18-34.i586@system sane-backends-1.0.18-9.i586@3
 erase twolame-0.3.9-0.pm.1.i586@system
@@ -315,9 +316,6 @@ problem 88f2e3ad solution 0a876617 deljob erase pkg yast2-storage-debuginfo-2.15
 problem 88f2e3ad solution 0a876617 deljob install pkg yast2-storage-2.15.5-4.i586@3
 problem 88f2e3ad solution 0a876617 deljob install pkg yast2-storage-evms-2.15.5-4.i586@3
 problem 88f2e3ad solution 2831ae64 deljob install pkg yast2-storage-debuginfo-2.15.4-2.i586@system
-problem bffe269a info package product:openSUSE-DVD9-retail-10.2.i686 requires openSUSE-release = 10.2, but none of the providers can be installed
-problem bffe269a solution 28a86ba8 erase product:openSUSE-DVD9-retail-10.2.i686@system
-problem bffe269a solution 9cea044f deljob install pkg openSUSE-release-10.3-9.i586@3
 problem e338053d info nothing provides powersave needed by smartmontools-5.36.cvs20061025-15.i586
 problem e338053d solution 8260693c deljob install pkg smartmontools-5.36.cvs20061025-15.i586@3
 upgrade 3ddiag-0.738-29.i586@system 3ddiag-0.740-15.i586@3
@@ -835,6 +833,7 @@ upgrade nss_ldap-253-14.i586@system nss_ldap-255-2.i586@3
 upgrade ntfsprogs-1.13.1-3.i586@system ntfsprogs-1.13.1-13.i586@3
 upgrade numlockx-1.1-23.i586@system numlockx-1.1-38.i586@3
 upgrade ocrad-0.16-10.i586@system ocrad-0.16-17.i586@3
+upgrade openSUSE-release-10.2-35.i586@system openSUSE-release-10.3-9.i586@3
 upgrade openal-0.0.8-12.i586@system openal-0.0.8-28.i586@3
 upgrade openct-0.6.9-18.i586@system openct-0.6.9-28.i586@3
 upgrade openldap2-client-2.3.27-25.i586@system openldap2-client-2.3.34-3.i586@3
