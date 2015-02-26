@@ -130,7 +130,6 @@ install ispell-spanish-1.5-288.i586@3
 install ivtv-kmp-default-0.9.1_2.6.20.2_2-6.i586@3
 install ivtv-kmp-xen-0.9.1_2.6.20.2_2-6.i586@3
 install ivtv-kmp-xenpae-0.9.1_2.6.20.2_2-6.i586@3
-install java-1_4_2-sun-jdbc-1.4.2_update13-12.i586@3
 install java-1_5_0-sun-1.5.0_update10-12.i586@3
 install java-1_5_0-sun-plugin-1.5.0_update10-12.i586@3
 install kasumi-2.0.1-42.i586@3
@@ -268,7 +267,6 @@ install scim-tables-skim-0.5.7-37.i586@3
 install scim-tables-zh-0.5.7-37.i586@3
 install scim-tomoe-0.4.0-15.i586@3
 install scim-uim-0.1.4-67.i586@3
-install sesam_srv-3.0.1-29.i586@3
 install skim-1.4.5-47.i586@3
 install smartlink-softmodem-kmp-default-2.9.10_2.6.20.2_2-91.i586@3
 install susehelp_cz-2006.06.20-37.noarch@3

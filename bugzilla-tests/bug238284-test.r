@@ -86,8 +86,6 @@ install ispell-norsk-1.5-281.i586@5
 install ispell-polish-1.5-281.i586@5
 install ispell-spanish-1.5-281.i586@5
 install ivtv-kmp-default-0.8.0_2.6.18.2_34-9.i586@5
-install java-1_4_2-sun-1.4.2_update13-3.1.i586@7
-install java-1_4_2-sun-jdbc-1.4.2_update13-3.1.i586@7
 install kasumi-2.0.1-25.i586@5
 install kde3-i18n-da-3.5.5-3.noarch@5
 install kde3-i18n-de-3.5.5-3.noarch@5
@@ -192,7 +190,6 @@ install scim-tables-skim-0.5.7-23.i586@5
 install scim-tables-zh-0.5.7-23.i586@5
 install scim-tomoe-0.2.0-43.i586@5
 install scim-uim-0.1.4-50.i586@5
-install sesam_srv-3.0.1-15.i586@5
 install skim-1.4.5-29.i586@5
 install skkdic-20050123-43.noarch@5
 install smartlink-softmodem-kmp-default-2.9.10_2.6.18.2_34-75.i586@5

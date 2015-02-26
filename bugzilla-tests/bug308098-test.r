@@ -245,7 +245,6 @@ install iwl3945-ucode-2.14.1.5-10.noarch@2
 install iwl4965-ucode-4.44.1.18-10.noarch@2
 install iwlwifi-kmp-default-0.1.14_2.6.22.5_10-2.i586@2
 install java-1_5_0-sun-1.5.0_update12-20.i586@2
-install java-1_5_0-sun-jdbc-1.5.0_update12-20.i586@2
 install java-1_5_0-sun-plugin-1.5.0_update12-20.i586@2
 install joe-3.5-61.i586@2
 install kasumi-2.2-55.i586@2
@@ -488,7 +487,6 @@ install scim-tables-zh-0.5.7-99.i586@2
 install scim-tomoe-0.5.0-14.i586@2
 install scim-uim-0.2.0-17.i586@2
 install screen-4.0.2-124.i586@2
-install sesam_srv-3.0.1-65.i586@2
 install setserial-2.17-651.i586@2
 install sgml-skel-0.6-342.noarch@2
 install sharutils-4.6.2-74.i586@2
