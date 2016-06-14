@@ -334,7 +334,8 @@ install hal-palm-0.12.2-95.i586@openSUSE-DVD_11.0
 install hal-resmgr-0.1_SVNr154-35.i586@openSUSE-DVD_11.0
 install hdparm-8.6-9.i586@openSUSE-DVD_11.0
 install hicolor-icon-theme-0.10-67.noarch@openSUSE-DVD_11.0
-install hpijs-standalone-2.8.4-6.i586@openSUSE-DVD_11.0
+install hplip-2.8.4-8.i586@openSUSE-DVD_11.0
+install hplip-hpijs-2.8.4-8.i586@openSUSE-DVD_11.0
 install hunspell-1.2.2-2.i586@openSUSE-DVD_11.0
 install hunspell-tools-1.2.2-2.i586@openSUSE-DVD_11.0
 install hwinfo-14.12-2.i586@openSUSE-DVD_11.0
@@ -532,12 +533,14 @@ install libreiserfs-0.3.0.5-108.i586@openSUSE-DVD_11.0
 install librpcsecgss-0.17-4.i586@openSUSE-DVD_11.0
 install librsvg-2.22.2-15.i586@openSUSE-DVD_11.0
 install libsamplerate-0.1.2-105.i586@openSUSE-DVD_11.0
+install libsensors3-2.10.6-11.i586@openSUSE-DVD_11.0
 install libsensors4-3.0.1-22.i586@openSUSE-DVD_11.0
 install libsexy-0.1.11-111.i586@openSUSE-DVD_11.0
 install libsigc++2-2.2.2-5.i586@openSUSE-DVD_11.0
 install libsmbclient0-3.0.28a-10.i586@openSUSE-DVD_11.0
 install libsmbios-libs-0.13.12-1.i586@openSUSE-DVD_11.0
 install libsndfile-1.0.17-127.i586@openSUSE-DVD_11.0
+install libsnmp15-5.4.1-65.i586@openSUSE-DVD_11.0
 install libsoup-2.4.0-9.i586@openSUSE-DVD_11.0
 install libsoup-2_4-1-2.4.0-9.i586@openSUSE-DVD_11.0
 install libspeex-1.1.99.3-20.i586@openSUSE-DVD_11.0
@@ -804,9 +807,12 @@ install python-ldap-2.3.4-4.i586@openSUSE-DVD_11.0
 install python-numeric-24.2-150.i586@openSUSE-DVD_11.0
 install python-opengl-2.0.1.09-206.i586@openSUSE-DVD_11.0
 install python-orbit-2.14.3-78.i586@openSUSE-DVD_11.0
+install python-qt-3.17.4-36.i586@openSUSE-DVD_11.0
+install python-sip-4.7.4-15.i586@openSUSE-DVD_11.0
 install python-tk-2.5.2-12.i586@openSUSE-DVD_11.0
 install python-xml-2.5.2-12.i586@openSUSE-DVD_11.0
 install pyxml-0.8.4-152.i586@openSUSE-DVD_11.0
+install qt3-3.3.8b-31.i586@openSUSE-DVD_11.0
 install rarian-0.7.1-9.i586@openSUSE-DVD_11.0
 install readline-doc-5.2-58.i586@openSUSE-DVD_11.0
 install recode-3.6-598.i586@openSUSE-DVD_11.0
@@ -848,6 +854,7 @@ install skencil-0.6.17-204.i586@openSUSE-DVD_11.0
 install slang-2.1.1-46.i586@openSUSE-DVD_11.0
 install slib-3a5-21.noarch@openSUSE-DVD_11.0
 install smartmontools-5.38-10.i586@openSUSE-DVD_11.0
+install snmp-mibs-5.4.1-65.i586@openSUSE-DVD_11.0
 install spamassassin-3.2.4-21.i586@openSUSE-DVD_11.0
 install splashy-0.3.8-35.i586@openSUSE-DVD_11.0
 install sqlite2-2.8.17-125.i586@openSUSE-DVD_11.0
