@@ -562,6 +562,7 @@ install opensuse-manual_de-10.3-9.noarch@4
 install orca-2.19.92-2.i586@4
 install p54-kmp-bigsmp-20070806_2.6.22.5_16-3.i586@4
 install pam_thinkfinger-0.3-2.i586@4
+install pattern:sw_management_kde-10.3-135.i586@4
 install pcc-acpi-kmp-bigsmp-0.9_2.6.22.5_16-3.i586@4
 install pcmciautils-014-38.i586@4
 install pcsc-acr38-1.7.9-26.i586@4
