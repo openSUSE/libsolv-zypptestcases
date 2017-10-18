@@ -311,7 +311,6 @@ install zaptel-kmp-xen-1.2.10_2.6.20.2_2-40.i586@3
 install zaptel-kmp-xenpae-1.2.10_2.6.20.2_2-40.i586@3
 problem 88f2e3ad info conflicting requests
 problem 88f2e3ad solution 0a876617 deljob erase pkg yast2-storage-debuginfo-2.15.4-2.i586@system
-problem 88f2e3ad solution 0a876617 deljob install pkg yast2-storage-2.15.5-4.i586@3
 problem 88f2e3ad solution 0a876617 deljob install pkg yast2-storage-evms-2.15.5-4.i586@3
 problem 88f2e3ad solution 2831ae64 deljob install pkg yast2-storage-debuginfo-2.15.4-2.i586@system
 problem e338053d info nothing provides powersave needed by smartmontools-5.36.cvs20061025-15.i586
