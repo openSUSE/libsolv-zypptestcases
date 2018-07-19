@@ -376,7 +376,6 @@ install edict-20060807-60.noarch@1
 install eel-2.20.0-2.i586@1
 install evolution-data-server-1.12.0-3.i586@1
 install expect-5.43.0-75.i586@1
-install fastjar-0.92-63.i586@1
 install fftw-2.1.5-115.i586@1
 install fftw3-3.1.2-61.i586@1
 install fonts-arabic-0.20040113-108.noarch@1
