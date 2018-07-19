@@ -2,6 +2,7 @@ repo system 0 testtags Bug217574-system.repo.gz
 repo 3 0 testtags Bug217574-3-package.repo.gz
 repo 1 0 testtags Bug217574-1-package.repo.gz
 system i686 rpm system
+feature linked_packages
 job install pkg bc-1.06-790.i586@3
 job install pkg beagle-0.2.16.2-6.i586@3
 job install pkg 3ddiag-0.740-15.i586@3
